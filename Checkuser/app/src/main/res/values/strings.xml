@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Checkuser</string>
+
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="CheckUser">Check User</string>
+</resources>
